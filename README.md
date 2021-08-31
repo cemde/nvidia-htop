@@ -6,7 +6,7 @@ A tool for enriching the output of `nvidia-smi`.
 [![PyPI version](https://badge.fury.io/py/nvidia-htop.svg)](https://badge.fury.io/py/nvidia-htop)
 
 # Install
-Only installs the original. Not this fork: `pip3 install nvidia-htop`
+Install this fork: `pip install git+https://github.com/cemde/nvidia-htop.git`
 
 **Yes, this tool has been on PyPi since 2021! Enjoy the super-easy way to install it.**
 
